@@ -8,4 +8,4 @@
 
 **PART C**
 - Synthesizd Verilog program, assigned general purpose I/O pins for circuit, and downloaded design onto Altera FPGA using Quartus
-- Constructed a working circuit composed of 6 LEDs, a 10-input DIP switch, and a FPGA to simulate a car's taillight behavior when the turn, brake, hazard, and running lights are on12
+- Constructed a working circuit composed of 6 LEDs, a 10-input DIP switch, and a FPGA to simulate a car's taillight behavior when the turn, brake, hazard, and running lights are on
